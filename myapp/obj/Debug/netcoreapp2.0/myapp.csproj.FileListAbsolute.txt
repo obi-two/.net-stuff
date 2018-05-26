@@ -1,0 +1,10 @@
+C:\Users\johnroy\Documents\GitHub\.net-stuff\myapp\bin\Debug\netcoreapp2.0\myapp.deps.json
+C:\Users\johnroy\Documents\GitHub\.net-stuff\myapp\bin\Debug\netcoreapp2.0\myapp.runtimeconfig.json
+C:\Users\johnroy\Documents\GitHub\.net-stuff\myapp\bin\Debug\netcoreapp2.0\myapp.runtimeconfig.dev.json
+C:\Users\johnroy\Documents\GitHub\.net-stuff\myapp\bin\Debug\netcoreapp2.0\myapp.dll
+C:\Users\johnroy\Documents\GitHub\.net-stuff\myapp\bin\Debug\netcoreapp2.0\myapp.pdb
+C:\Users\johnroy\Documents\GitHub\.net-stuff\myapp\obj\Debug\netcoreapp2.0\myapp.csproj.CoreCompileInputs.cache
+C:\Users\johnroy\Documents\GitHub\.net-stuff\myapp\obj\Debug\netcoreapp2.0\myapp.AssemblyInfoInputs.cache
+C:\Users\johnroy\Documents\GitHub\.net-stuff\myapp\obj\Debug\netcoreapp2.0\myapp.AssemblyInfo.cs
+C:\Users\johnroy\Documents\GitHub\.net-stuff\myapp\obj\Debug\netcoreapp2.0\myapp.dll
+C:\Users\johnroy\Documents\GitHub\.net-stuff\myapp\obj\Debug\netcoreapp2.0\myapp.pdb
