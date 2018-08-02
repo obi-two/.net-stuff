@@ -1,0 +1,6 @@
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

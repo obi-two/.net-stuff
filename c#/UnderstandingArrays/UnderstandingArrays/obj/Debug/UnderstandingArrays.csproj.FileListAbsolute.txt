@@ -1,0 +1,7 @@
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe.config
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.pdb
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.csprojAssemblyReference.cache
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.csproj.CoreCompileInputs.cache
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.exe
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.pdb

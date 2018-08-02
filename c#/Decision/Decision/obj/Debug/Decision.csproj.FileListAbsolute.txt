@@ -1,0 +1,7 @@
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\Decision\Decision\bin\Debug\Decision.exe.config
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\Decision\Decision\bin\Debug\Decision.exe
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\Decision\Decision\bin\Debug\Decision.pdb
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\Decision\Decision\obj\Debug\Decision.csprojAssemblyReference.cache
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\Decision\Decision\obj\Debug\Decision.csproj.CoreCompileInputs.cache
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\Decision\Decision\obj\Debug\Decision.exe
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\Decision\Decision\obj\Debug\Decision.pdb

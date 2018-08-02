@@ -1,0 +1,7 @@
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\ForIteration\ForIteration\bin\Debug\ForIteration.exe.config
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\ForIteration\ForIteration\bin\Debug\ForIteration.exe
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\ForIteration\ForIteration\bin\Debug\ForIteration.pdb
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\ForIteration\ForIteration\obj\Debug\ForIteration.csprojAssemblyReference.cache
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\ForIteration\ForIteration\obj\Debug\ForIteration.csproj.CoreCompileInputs.cache
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\ForIteration\ForIteration\obj\Debug\ForIteration.exe
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\ForIteration\ForIteration\obj\Debug\ForIteration.pdb
