@@ -1,0 +1,7 @@
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\SimpleMethid\SimpleMethid\bin\Debug\SimpleMethid.exe.config
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\SimpleMethid\SimpleMethid\bin\Debug\SimpleMethid.exe
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\SimpleMethid\SimpleMethid\bin\Debug\SimpleMethid.pdb
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\SimpleMethid\SimpleMethid\obj\Debug\SimpleMethid.csprojAssemblyReference.cache
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\SimpleMethid\SimpleMethid\obj\Debug\SimpleMethid.csproj.CoreCompileInputs.cache
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\SimpleMethid\SimpleMethid\obj\Debug\SimpleMethid.exe
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\SimpleMethid\SimpleMethid\obj\Debug\SimpleMethid.pdb

@@ -4,20 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimpleMethid
+namespace HelloWorld
 {
     class Program
     {
         static void Main(string[] args)
         {
-            HelloWorld();
+            Console.WriteLine("Hello World");
             Console.ReadLine();
         }
-
-        private static void HelloWorld()
-        {
-            Console.WriteLine("Hello World!");
-        }
-
     }
 }
