@@ -1,0 +1,7 @@
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\ObjectLifeTime\ObjectLifeTime\bin\Debug\ObjectLifeTime.exe.config
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\ObjectLifeTime\ObjectLifeTime\bin\Debug\ObjectLifeTime.exe
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\ObjectLifeTime\ObjectLifeTime\bin\Debug\ObjectLifeTime.pdb
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\ObjectLifeTime\ObjectLifeTime\obj\Debug\ObjectLifeTime.csprojAssemblyReference.cache
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\ObjectLifeTime\ObjectLifeTime\obj\Debug\ObjectLifeTime.csproj.CoreCompileInputs.cache
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\ObjectLifeTime\ObjectLifeTime\obj\Debug\ObjectLifeTime.exe
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\ObjectLifeTime\ObjectLifeTime\obj\Debug\ObjectLifeTime.pdb

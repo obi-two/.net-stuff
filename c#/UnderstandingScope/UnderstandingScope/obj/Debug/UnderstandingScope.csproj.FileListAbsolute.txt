@@ -1,0 +1,7 @@
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.exe.config
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.exe
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.pdb
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.csprojAssemblyReference.cache
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.csproj.CoreCompileInputs.cache
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.exe
+C:\Users\johnroy\Documents\GitHub\.net-stuff\c#\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.pdb
